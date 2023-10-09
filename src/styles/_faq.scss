@@ -1,12 +1,14 @@
 .faq {
     padding: 5.6vw;
 
+
     h2 {
         text-align: center;
         margin-bottom: 24px;
     }
     
     &__questions {
+        list-style-type: none;
         &__item {
             background-color: #13151d;
             margin-bottom: 16px;
